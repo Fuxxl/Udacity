@@ -1,2 +1,0 @@
-# Udacity
-My Udacity files
